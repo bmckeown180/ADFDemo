@@ -1,5 +1,13 @@
 {
 	"name": "adfdemobmk",
+	"properties": {
+		"globalParameters": {
+			"environment": {
+				"type": "string",
+				"value": "1024"
+			}
+		}
+	},
 	"location": "eastus2",
 	"identity": {
 		"type": "SystemAssigned",
