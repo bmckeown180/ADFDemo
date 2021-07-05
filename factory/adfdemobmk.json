@@ -5,6 +5,10 @@
 			"environment": {
 				"type": "string",
 				"value": "1024"
+			},
+			"DataVerification": {
+				"type": "bool",
+				"value": true
 			}
 		}
 	},
