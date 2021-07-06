@@ -1,0 +1,9 @@
+{
+	"name": "LoadSQLDWDemobmk",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a98c44ab-6e8f-44c4-8ea8-cb6f6861f5e4",
+		"tenantId": "c692ad60-1f05-4f13-ac99-0199303d0627"
+	}
+}
