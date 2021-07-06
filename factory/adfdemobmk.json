@@ -1,21 +1,9 @@
 {
 	"name": "adfdemobmk",
-	"properties": {
-		"globalParameters": {
-			"environment": {
-				"type": "string",
-				"value": "1024"
-			},
-			"DataVerification": {
-				"type": "bool",
-				"value": true
-			}
-		}
-	},
-	"location": "eastus2",
+	"location": "northeurope",
 	"identity": {
 		"type": "SystemAssigned",
-		"principalId": "ba557f6b-cb9e-41bf-ab53-3ade74b82a78",
+		"principalId": "e02f28ee-ae3c-44bc-be6a-b25aef65392e",
 		"tenantId": "c692ad60-1f05-4f13-ac99-0199303d0627"
 	}
 }
